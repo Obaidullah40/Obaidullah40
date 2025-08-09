@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=1280&q=80" alt="Banner" width="100%" />
+  <img src="https://ibb.co.com/XxL7Vzhc" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Obaidullah</h1>
