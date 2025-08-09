@@ -3,8 +3,8 @@
   <img src="https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=1280&q=80" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Muhammad Obaidullah</h1>
-<h3 align="center">MERN Stack Developer | Frontend & Backend Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Obaidullah</h1>
+<h3 align="center">Frontend & Backend Developer | MERN Stack Enthusiast</h3>
 
 ---
 
