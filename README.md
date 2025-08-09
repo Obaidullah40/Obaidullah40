@@ -1,10 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://ibb.co.com/XxL7Vzhc" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/HT4tXrW5/6f46cbb4-771b-4289-ba62-088151a7c791.jpg" alt="Banner" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Muhammad Obaidullah</h1>
-<h3 align="center">Frontend & Backend Developer | MERN Stack Enthusiast</h3>
 
 ---
 
@@ -52,29 +49,17 @@ Skilled in modern JavaScript frameworks with strong backend experience. Always e
 ## 📫 Connect with me  
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/obaidullah" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/obaidullah30/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.facebook.com/obaidullah.40" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical" alt="GitHub Streak" />
-</p>
