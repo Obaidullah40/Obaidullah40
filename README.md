@@ -7,7 +7,7 @@
 I build fast, scalable web apps with **Next.js**, **TypeScript**, and the **MERN** stack —
 from corporate business sites to full products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logo=vercel&logoColor=2CA6A4)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logo=vercel&logoColor=2CA6A4)](https://md-obaidullah.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2647?style=for-the-badge&logo=linkedin&logoColor=2CA6A4)](https://www.linkedin.com/in/obaidullah30/)
 [![Facebook](https://img.shields.io/badge/Facebook-0A2647?style=for-the-badge&logo=facebook&logoColor=2CA6A4)](https://www.facebook.com/obaidullah.40)
 
